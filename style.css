@@ -92,13 +92,19 @@ img {
 }
 
 .testimonial .review {
-    font-size: 1.4rem;
+    font-size: 1.35rem;
     font-weight: 600;
 }
 
 .testimonial p:last-child {
     opacity: 70%;
     line-height: 1.4;
+}
+
+.testimonial.quote {
+    background-image: url("./images/bg-pattern-quotation.svg");
+    background-repeat: no-repeat;
+    background-position: top right 15%;
 }
 
 footer {
