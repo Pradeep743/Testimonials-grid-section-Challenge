@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [View Code](https://github.com/Pradeep743/Testimonials-grid-section-Challenge)
-- Live Site URL: [Visit Site](https://pradeep743.github.io/Testimonials-grid-section-Challenge/)
+- Live Site URL: [Visit Site](https://pradeep743.github.io/Challenge-Testimonials-grid-section/)
 
 ## My process
 
